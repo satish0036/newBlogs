@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on India Article24</title>
-    <link>http://localhost:1313/authors/</link>
+    <link>https://newblog.indiaarticle24.com/authors/</link>
     <description>Recent content in Authors on India Article24</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Mar 2024 22:52:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://newblog.indiaarticle24.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Satish</title>
-      <link>http://localhost:1313/authors/satish/</link>
+      <link>https://newblog.indiaarticle24.com/authors/satish/</link>
       <pubDate>Tue, 05 Mar 2024 22:52:21 +0530</pubDate>
-      <guid>http://localhost:1313/authors/satish/</guid>
+      <guid>https://newblog.indiaarticle24.com/authors/satish/</guid>
       <description></description>
     </item>
   </channel>
