@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jhgf on Satish Blog</title>
+    <link>http://localhost:1313/categories/jhgf/</link>
+    <description>Recent content in Jhgf on Satish Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2024 22:47:55 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/jhgf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>modi ji</title>
+      <link>http://localhost:1313/my-third-post/</link>
+      <pubDate>Tue, 05 Mar 2024 22:47:55 +0530</pubDate>
+      <guid>http://localhost:1313/my-third-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
