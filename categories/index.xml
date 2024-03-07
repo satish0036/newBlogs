@@ -2,24 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on India Article24</title>
-    <link>https://newblog.indiaarticle24.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on India Article24</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2024 22:52:21 +0530</lastBuildDate>
-    <atom:link href="https://newblog.indiaarticle24.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 12:07:46 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10LPA&#43;</title>
+      <link>http://localhost:1313/categories/10lpa&#43;/</link>
+      <pubDate>Thu, 07 Mar 2024 12:07:46 +0530</pubDate>
+      <guid>http://localhost:1313/categories/10lpa&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>15LPA&#43;</title>
+      <link>http://localhost:1313/categories/15lpa&#43;/</link>
+      <pubDate>Thu, 07 Mar 2024 12:07:46 +0530</pubDate>
+      <guid>http://localhost:1313/categories/15lpa&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job</title>
+      <link>http://localhost:1313/categories/job/</link>
+      <pubDate>Thu, 07 Mar 2024 12:07:46 +0530</pubDate>
+      <guid>http://localhost:1313/categories/job/</guid>
+      <description></description>
+    </item>
     <item>
       <title>General</title>
-      <link>https://newblog.indiaarticle24.com/categories/general/</link>
+      <link>http://localhost:1313/categories/general/</link>
       <pubDate>Tue, 05 Mar 2024 22:52:21 +0530</pubDate>
-      <guid>https://newblog.indiaarticle24.com/categories/general/</guid>
+      <guid>http://localhost:1313/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>https://newblog.indiaarticle24.com/categories/tech/</link>
+      <link>http://localhost:1313/categories/tech/</link>
       <pubDate>Tue, 05 Mar 2024 22:52:21 +0530</pubDate>
-      <guid>https://newblog.indiaarticle24.com/categories/tech/</guid>
+      <guid>http://localhost:1313/categories/tech/</guid>
       <description></description>
     </item>
   </channel>
